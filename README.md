@@ -9,6 +9,11 @@ Languages I like, in order of proficiency:
 - C#
 - Rust
 - Go
+- Elixir
+
+Languages I've tried but don't really care for:
 - Python
+- Ruby
+- Scheme
 
 Head over to [my personal site](https://halfmatthalfcat.com) for a more bloggy experience.
